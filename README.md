@@ -95,3 +95,12 @@ Nhận xét thành quả đạt được!!!
 
   <img width="1465" height="962" alt="image" src="https://github.com/user-attachments/assets/3581d409-e643-4033-a5f8-6c22e1b1c801" />
 
+-tạo telegram bot
+
+<img width="988" height="762" alt="image" src="https://github.com/user-attachments/assets/9aa453de-356c-438c-9402-619fb4ae3f7f" />
+
+-chat với bot để tạo chat_id
+
+<img width="990" height="763" alt="image" src="https://github.com/user-attachments/assets/89e7c50c-31ba-4397-a8af-83bde4b5784e" />
+
+<img width="1837" height="906" alt="image" src="https://github.com/user-attachments/assets/3667a854-f6e9-4fab-bc12-de9798315d13" />
